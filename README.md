@@ -6,4 +6,6 @@ follow = i LOVE ur skins / ur github deco is pretty
 
 ill make this pretty alrighht...
 
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fdearsantaaa&label=%F0%93%8F%BC&icon=peace&color=%23087990&message=&style=plastic&tz=America%2FSantiago)
+
 **yours truly**, en
